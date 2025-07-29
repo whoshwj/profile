@@ -5,13 +5,13 @@
   - Large language model (LLM), Visual language model (VLM)  
 
 ## 🔭 Careers
-- Sr. Field Application Engineer at **Tenstorrent** (2025 - PRESENT)
-- Algorithm Engineer at StradVision (2021 - 2025)
-- Algorithm Engineer at VIRNECT (2019 - 2021)
+- Sr. Field Application Engineer at Basic International (2023 - PRESENT)
+- Full-stack Engineer at SNI (2022 - 2023)
+- Account Executive at UDM (2016-2020)
 
 ## ⚡ Community Activities
-- Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
-- Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com)
+- SEOUL FOUNDATION OF WOMEN & FAMILY's IT's study group
+- Personal research blog (Korean): [**codesurfing blog**](https://codesurfing.tistory.com/)
 
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/woojeong-hong-2b1598181)
