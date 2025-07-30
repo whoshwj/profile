@@ -5,7 +5,7 @@
   - Large language model (LLM), Visual language model (VLM)  
 
 ## 🔭 Careers
-- Sr. Field Application Engineer at Basic International (2023 - PRESENT)
+- Full-stack Engineer at Basic International (2023 - PRESENT)
 - Full-stack Engineer at SNI (2022 - 2023)
 - Account Executive at UDM (2016-2020)
 
